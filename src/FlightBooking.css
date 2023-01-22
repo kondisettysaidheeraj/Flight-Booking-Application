@@ -1,0 +1,170 @@
+body
+{
+/* background-color:rgb(45, 78, 211); */
+    /* background-image: url("C:\Users\Home\Desktop\flightImage.jpeg"); */
+  
+}
+.athuntication
+{
+    
+     color:  rgb(92, 242, 72);
+    border: 5px solid rgb(92, 242, 72);
+    position: absolute;
+    top: 21%;
+    left: 43%;
+    background-color:white;
+    height: 350px;
+    width: 250px;
+      
+}
+#id1
+{
+  color:rgb(92, 242, 72) ;
+  padding-left: 150px;
+}
+.athuntication1
+{
+    
+     color:  rgb(92, 242, 72);
+    border: 5px solid rgb(92, 242, 72);
+    position: absolute;
+    top: 21%;
+    left: 43%;
+    background-color:white;
+    height: 400px;
+    width: 250px;
+      
+}
+
+#login
+{
+    position: absolute;
+    top: 45%;
+    left: 20%;
+    background-color: rgb(92, 242, 72);
+    border-color: rgb(92, 242, 72);
+}
+#singup
+{
+    position: absolute;
+    top: 45%;
+    left: 55%;
+    background-color: rgb(92, 242, 72);
+    border-color: rgb(92, 242, 72);
+}
+::placeholder { 
+    color: rgb(92, 242, 72);
+    opacity: 1; 
+  }
+  #btn1
+  {
+    height: 40px;
+    background-color: rgb(92, 242, 72);
+    width: 150px;
+    text-align: center;
+    border-color: rgb(92, 242, 72);
+  }
+  #btn2
+  {
+    height: 40px;
+    background-color: rgb(92, 242, 72);
+    width: 150px;
+    text-align: center;
+    border-color: rgb(92, 242, 72);
+
+  }
+  #btn3
+  {
+    height: 40px;
+    background-color: rgb(92, 242, 72);
+    width: 150px;
+    text-align: center;
+    border-color: #5cf248;
+    /* position:absolute; */
+    /* top: 5px; */
+    /* padding-top: 5px; */
+   
+  }
+  #btn4
+  {
+    height: 30px;
+    background-color: rgb(92, 242, 72);
+    width: 44px;
+    text-align: center;
+    border-color: rgb(92, 242, 72);
+    padding-top: 2px;
+    position: relative;
+    top: 10px;
+    left: 10px;
+    padding-left: 1px;
+   
+   
+  }
+  #btn5
+  {
+    height: 40px;
+    background-color: rgb(92, 242, 72);
+    width: 150px;
+    text-align: center;
+    border-color: #5cf248;
+  }
+  .inputborder
+  {
+    border-color: rgb(92, 242, 72);
+  }
+  table, th, td{
+    border: 1px solid;
+    border-color: rgb(92, 242, 72);
+    width: 900px;
+   
+  }
+  
+  #row
+  {
+    border: 1px solid;
+    border-color: rgb(92, 242, 72);
+    height: 50px;
+    position: relative;
+    right: 4%;
+  
+}
+  
+#ticketTable
+{
+  font-family: Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 50%;
+}
+#ticketTable tr:nth-child(even){background-color: #f2f2f2;}
+
+#ticketTable tr:hover {background-color: #ddd;}
+#ticketTable td
+{
+  border: 1px solid rgb(92, 242, 72) ;
+  padding: 8px;
+}
+  #ticket
+  {
+    position: relative;
+    left: 27%;
+  
+
+  }
+  #flightCard
+  {
+    position: relative;
+    top: 170px;
+    left: 20%;
+  
+  }
+  #flightCard th
+  {
+
+padding-right: 70px;
+  }
+  #invalid
+  {
+     color: red;
+     padding-top: 5%;
+     padding-left: 7%;
+  }
